@@ -222,6 +222,7 @@ button:focus,
     -ms-flex-direction: column;
     flex-direction: column;
     text-align: center;
+    margin-bottom: 32px;
 }
 
 .aboutme__info {
