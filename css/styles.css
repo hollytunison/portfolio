@@ -22,10 +22,6 @@ body {
     line-height: var(--line-height);
 }
 
-p {
-    padding: 32px;
-}
-
 h1 {
     font-family: var(--header-font);
     font-size: 40px;
