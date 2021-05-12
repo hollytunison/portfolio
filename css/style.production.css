@@ -35,6 +35,10 @@ h3 {
     color: #474748;
 }
 
+p {
+    padding: 32px;
+}
+
 a {
     color: #51648c;
 }
